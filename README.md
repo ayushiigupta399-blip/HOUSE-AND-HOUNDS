@@ -1,7 +1,7 @@
 # HOUSE-AND-HOUNDS
 # Local Community Services Hub  
 A simple terminal-based application that helps users explore local services, read testimonials, and book appointments.  
-This project was created as part of the VITyarthi – Build Your Own Project evaluation.
+This project was created as part of he VITyarthi – Build Your Own Project evaluation.
 
 ---
 
