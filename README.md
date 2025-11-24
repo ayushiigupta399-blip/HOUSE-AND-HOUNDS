@@ -12,7 +12,7 @@ This project was created as part of he VITyarthi – Build Your Own Project eval
 
 ---
 
-## 🌟 **Project Overview**
+##  **Project Overview**
 The **Local Community Services Hub** is a Python-based interactive console and an  application designed to simulate a small, local service provider platform.  
 It allows users to:
 
@@ -24,17 +24,17 @@ The project demonstrates the application of basic programming concepts such as f
 
 ---
 
-## 🚀 **Features are **
-### ✔ **1. Service Highlights**
+##  **Features are **
+###  **1. Service Highlights**
 Displays a structured list of offered services:
 - Home Repair  
 - Home Cleaning  
 - Pet Care
 
-### ✔ **2. Client Testimonials are**
+###  **2. Client Testimonials are**
 Shows real-sounding customer feedback with star ratings.
 
-### ✔ **3. Booking Form**
+###  **3. Booking Form**
 A step-by-step form that collects:
 - Service choice  
 - Customer name  
@@ -46,7 +46,7 @@ Each booking is stored in memory and assigned a **unique reference ID which is g
 
 ---
 
-## 🛠 **Technologies Used**
+##  **Technologies Used**
 - **Python 3.x**
 - Built-in modules:  
   - `datetime` (for timestamp generation)
