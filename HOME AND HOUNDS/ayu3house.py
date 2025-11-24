@@ -19,7 +19,7 @@ class LocalServiceApp:
 
         #  testimonials with  names (Piyush, Roshni, Arya, Vanya)
         self.testimonials = [
-            "⭐⭐⭐⭐⭐ - 'The cleaning crew was fast, thorough, and very professional. Highly recommend!' - Piyush chutkuuuuuuuuu ismall baby of daddy ",
+            "⭐⭐⭐⭐⭐ - 'The cleaning crew was fast, thorough, and very professional. Highly recommend!' - Piyush  ",
             "⭐⭐⭐⭐⭐ - 'Fixed my leaky faucet the same day I called. Excellent home repair service.' - Roshni",
             "⭐⭐⭐⭐⭐ - 'My dog loves the walker! Great communication and very reliable pet care.' - Arya",
             "⭐⭐⭐⭐⭐ - 'Amazing deep clean before our party. Everything sparkled and the team was efficient.' - Vanya"
@@ -165,4 +165,5 @@ class LocalServiceApp:
 if __name__ == "__main__":
     # Create an instance of the application and start the main menu
     app = LocalServiceApp()
+
     app.main_menu()
