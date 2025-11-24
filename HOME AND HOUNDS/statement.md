@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 In most neighborhoods, people often struggle to find reliable help for everyday tasks like cleaning the house, fixing small repairs, or taking care of their pets.  
 Service providers also don’t always have a simple digital platform where people can easily see what they offer or book an appointment.
 
@@ -11,7 +11,7 @@ To solve this everyday problem, I built a **simple, user-friendly console applic
 
 ---
 
-## 🎯 Scope of the Project
+##  Scope of the Project
 The aim of this project is to design a basic but functional service-booking system that works entirely through the terminal.  
 The project covers:
 
@@ -33,7 +33,7 @@ It **does not** include advanced features such as:
 
 ---
 
-## 👥 Target Users
+##  Target Users
 The application is designed for:
 - Residents who want quick access to trustworthy local services  
 - Small service providers who want a simple digital booking interface  
@@ -42,7 +42,7 @@ The application is designed for:
 
 ---
 
-## 🌟 High-Level Features
+##  High-Level Features
 ### ✔ Easy-to-Use Menu
 A simple navigation menu that lets users quickly jump between options.
 
@@ -71,3 +71,4 @@ The system automatically creates:
 - **Maintainable** — Built using a clean, modular class structure  
 
 ---
+
