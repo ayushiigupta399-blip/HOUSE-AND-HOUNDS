@@ -43,16 +43,16 @@ The application is designed for:
 ---
 
 ##  High-Level Features
-### ✔ Easy-to-Use Menu
+###  Easy-to-Use Menu
 A simple navigation menu that lets users quickly jump between options.
 
-### ✔ Service Highlights
+###  Service Highlights
 Clear descriptions of what each service includes, so users know exactly what they’re choosing.
 
-### ✔ Client Testimonials
+###  Client Testimonials
 Short, friendly reviews from fictional clients that make the system feel more real and trustworthy.
 
-### ✔ Booking Form
+###  Booking Form
 A guided, step-by-step process where users enter:
 - Their name  
 - Phone number  
@@ -64,11 +64,12 @@ The system automatically creates:
 - A unique booking ID  
 - A timestamp for admin reference  
 
-### ✔ Non-Functional Strengths
+###  Non-Functional Strengths
 - **Very easy to use** — Even non-technical users can navigate the menu  
 - **Reliable** — Inputs are validated to reduce mistakes  
 - **Lightweight & fast** — Runs instantly since it’s pure Python  
 - **Maintainable** — Built using a clean, modular class structure  
 
 ---
+
 
