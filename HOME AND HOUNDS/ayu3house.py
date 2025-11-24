@@ -12,9 +12,9 @@ class LocalServiceApp:
 
         # Static content for the application (UPDATED)
         self.services = {
-            1: "🏠 Home Repair: Minor fixes, plumbing, electrical checks.",
-            2: "🧹 Home Cleaning: Deep cleaning (includes kitchen and washroom), weekly/bi-weekly residential services.",
-            3: "🐾 Pet Care: Dog walking, in-home feeding, pet body care (grooming/bathing), and overnight sitting."
+            1: " Home Repair: Minor fixes, plumbing, electrical checks.",
+            2: " Home Cleaning: Deep cleaning (includes kitchen and washroom), weekly/bi-weekly residential services.",
+            3: " Pet Care: Dog walking, in-home feeding, pet body care (grooming/bathing), and overnight sitting."
         }
 
         #  testimonials with  names (Piyush, Roshni, Arya, Vanya)
@@ -167,4 +167,5 @@ if __name__ == "__main__":
     app = LocalServiceApp()
 
     app.main_menu()
+
 
