@@ -1,4 +1,11 @@
 # HOUSE-AND-HOUNDS
+# NAME:Ayushi Gupta
+#Registration number :25BCE11169
+VELLORE INSTITUTE OF TECHNOLOGY,BHOPAL 
+DATE:24TH NOVEMBER ,2025
+SUBMITTED TO : MISS. VANDANA SHAKYA
+SLOT:A11,A12,A13(FRESHERS)
+
 # Local Community Services Hub  
 A simple terminal-based application that helps users explore local services, read testimonials, and book appointments.  
 This project was created as part of he VITyarthi – Build Your Own Project evaluation.
